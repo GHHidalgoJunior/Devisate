@@ -12,7 +12,7 @@ package Aula02;
 public class Inteiros {
 
     public static void main(String args[]) {
-        byte varByte = 127;
+        byte varByte = 127; 
         short varShort = 32000;
         int varInt = 20000000;
         long varLong = 300000000;
